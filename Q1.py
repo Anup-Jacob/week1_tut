@@ -1,6 +1,8 @@
 #-------------------------------
 
-# Tutorial done by Anup Jacob
+# Author        : Anup Jacob
+# Created date  : 26/09/2021
+# Description   : Understanding print function
 
 #-------------------------------
 

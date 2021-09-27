@@ -1,9 +1,10 @@
+#-------------------------------
 
-#-------------------------------------------------
+# Author        : Anup Jacob
+# Created date  : 26/09/2021
+# Description   : Understanding mathematical operations
 
-#  Tutorial done by Anup Jacob
-
-#-------------------------------------------------
+#-------------------------------
 
 
 ans_1 = 6 + 8 / 2 - 1

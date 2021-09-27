@@ -1,8 +1,10 @@
-#-------------------------------------------------
+#-------------------------------
 
-#  Tutorial done by Anup Jacob
+# Author        : Anup Jacob
+# Created date  : 26/09/2021
+# Description   : Understanding datatypes
 
-#-------------------------------------------------
+#-------------------------------
 
 
 #ppsn     # ppsn number may have characters and numbers(alphanumeric in nature)

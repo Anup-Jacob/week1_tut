@@ -1,6 +1,8 @@
 #-------------------------------
 
-# Tutorial done by Anup Jacob
+# Author        : Anup Jacob
+# Created date  : 26/09/2021
+# Description   : Printing a pattern/ box
 
 #-------------------------------
 
